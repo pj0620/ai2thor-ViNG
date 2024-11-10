@@ -1,2 +1,3 @@
 # ai2thor-ViNG
-reproduce the ViNG paper in Ai2thor
+Reproduce the [ViNG paper](https://sites.google.com/view/ving-robot) in Ai2thor
+
